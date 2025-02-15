@@ -35,7 +35,7 @@ Nghiên cứu sử dụng phương pháp phân tích dữ liệu thời gian và
 
 __📊__  _Xu hướng giá cổ phiếu BCA_
 
-![Xu hướng giá cổ piếu của BCA](https://github.com/user-attachments/assets/7574c6b4-0d86-4917-8360-795249c945d1)
+![Screenshot 2025-02-16 010411](https://github.com/user-attachments/assets/a6eda686-5b27-4460-bbf7-45491664d681)
 
 Nhìn chung, cổ phiếu BCA có xu hướng tăng trưởng mạnh mẽ trong dài hạn, bất chấp những biến động ngắn hạn do các yếu tố kinh tế cũng như thị trường:
 
@@ -57,7 +57,7 @@ __📊__  _Xu hướng về khối lượng giao dịch của cổ phiếu BCA_
 
 Nhìn chung, khối lượng giao dịch cổ phiếu BCA trải qua nhiều giai đoạn biến động, với những đợt tăng mạnh vào 2016 và 2020, cụ thể:
  
-  *Giai đoạn
+  *Giai đoạn 
 
 
 
