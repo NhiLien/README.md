@@ -73,6 +73,8 @@ Khối lượng giao dịch tiếp tục tăng mạnh, đạt đỉnh khoảng 0
 
 Những tháng đầu năm 2024, khối lượng giao dịch có dấu hiệu giảm. Điều này có thể do tâm lý thận trọng của nhà đầu tư trước những biến động kinh tế toàn cầu, cùng với giai đoạn điều chỉnh tự nhiên sau các đợt giao dịch sôi động trước đó.
 
+__📊__  _Xu hướng giá cổ phiếu BCA bằng MA (Moving Average)_
+
 
   
 
