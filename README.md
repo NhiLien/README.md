@@ -75,6 +75,20 @@ Những tháng đầu năm 2024, khối lượng giao dịch có dấu hiệu gi
 
 __📊__  _Xu hướng giá cổ phiếu BCA bằng MA (Moving Average)_
 
+Trong bài nghiên cứu này, tác giả dùng đường trung bình động MA để xác định xu hướng giá của cổ phiếu BCA trong giai đoạn 2014 - 2024. Và MA được tính dựa trên giá đóng cửa trung bình trong một khoảng thời gian nhất định.
+
+* Nhận xét chung:
+
+![Screenshot 2025-02-16 134349](https://github.com/user-attachments/assets/7670b0b5-64e9-4493-859a-7e0b8452a618)
+
+Nhìn chung, giá trị trung bình của giá đóng cửa cổ phiếu BCA có xu hướng tăng dần theo thời gian. Bên cạnh đó, đường MA 20, MA 50, MA 100 trên biểu đồ đều có xu hướng tăng lên trong dài hạn. Cụ thể là:
+
+  Giai đoạn 2014 - 2020: có thể thấy đường MA dao động gần với hai đường MA 50 và MA 100, thể hiện rằng thị trường 
+  
+Căn cứ vào biểu đồ trên, có thể thấy các đường trung bình động có thứ tự hợp lý với MA 20 > MA 50 > MA 100, và điều này cho thấy giá cổ phiếu BCA có chiều hướng sẽ tăng bền vững. 
+
+
+
 
   
 
