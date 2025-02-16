@@ -83,9 +83,22 @@ Trong bài nghiên cứu này, tác giả dùng đường trung bình động MA
 
 Nhìn chung, giá trị trung bình của giá đóng cửa cổ phiếu BCA có xu hướng tăng dần theo thời gian. Bên cạnh đó, đường MA 20, MA 50, MA 100 trên biểu đồ đều có xu hướng tăng lên trong dài hạn. Cụ thể là:
 
-  Giai đoạn 2014 - 2020: có thể thấy đường MA dao động gần với hai đường MA 50 và MA 100, thể hiện rằng thị trường 
-  
-Căn cứ vào biểu đồ trên, có thể thấy các đường trung bình động có thứ tự hợp lý với MA 20 > MA 50 > MA 100, và điều này cho thấy giá cổ phiếu BCA có chiều hướng sẽ tăng bền vững. 
+  * Giai đoạn 2014 - 2020: 
+
+Trong giai đoạn này, đường MA 20 thường di chuyển gần MA 50, cho thấy giá cổ phiếu BCA có xu hướng tăng ổn định.
+
+Tín hiệu mua: Xuất hiện khi MA 20 cắt lên MA 50 và MA 100, thể hiện sự tăng trưởng mạnh của cổ phiếu.
+
+Chiến lược: Nhà đầu tư có thể cân nhắc mua vào khi xuất hiện tín hiệu cắt lên để tối ưu lợi nhuận.
+
+  * Giai đoạn 2021 - 2023:
+
+Trong suốt giai đoạn này, MA 20 duy trì trên MA 50 và MA 100, xác nhận xu hướng tăng mạnh của cổ phiếu BCA.
+
+Chiến lược:
+Nhà đầu tư dài hạn có thể giữ vị thế mua khi xu hướng tăng vẫn tiếp diễn.
+
+Nhà đầu tư ngắn hạn có thể chốt lời dần khi giá đạt mức cao và cách xa MA 20.
 
 
 
