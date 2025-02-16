@@ -55,9 +55,26 @@ __📊__  _Xu hướng về khối lượng giao dịch của cổ phiếu BCA_
 
 ![Tổng KL GD CP theo Năm](https://github.com/user-attachments/assets/ea440bbc-a563-46a7-824b-0f961bd2e3fc)
 
-Nhìn chung, khối lượng giao dịch cổ phiếu BCA trải qua nhiều giai đoạn biến động, với những đợt tăng mạnh vào 2016 và 2020, cụ thể:
+Nhìn chung, tổng khối lượng giao dịch cổ phiếu BCA trải qua nhiều giai đoạn biến động, với những đợt tăng mạnh vào 2016 và 2020, cụ thể:
  
-  *Giai đoạn 
+  *Giai đoạn 2014 - 2018: 
+
+Trong giai đoạn này, tổng khối lượng giao dịch cổ phiếu BCA tăng trưởng ổn định qua từng năm, đạt đỉnh vào năm 2016 với 23,000 cổ phiếu. Giai đoạn 2017-2018 ghi nhận mức giao dịch cao nhất trong 10 năm, đạt đỉnh 1.06 tỷ cổ phiếu. Nguyên nhân có thể do các sự kiện quan trọng của BCA như thay đổi chiến lược, điều chỉnh cổ tức, hoặc tăng vốn; tác động từ kinh tế vĩ mô và chính sách tài chính; cũng như hoạt động mua/bán của các quỹ đầu tư lớn.
+
+  *Giai đoạn 2019 - 2021:
+
+Sau đợt tăng mạnh năm 2018, khối lượng giao dịch giảm nhẹ nhưng vẫn duy trì ở mức cao. Năm 2020, giao dịch tăng vọt, có thể do tác động của đại dịch COVID-19, khi dòng vốn đổ mạnh vào thị trường chứng khoán. Đỉnh điểm trong năm đạt 0.54 tỷ cổ phiếu, có thể liên quan đến các biện pháp kích thích kinh tế của chính phủ Indonesia.
+
+  *Giai đoạn 2022 - 2023:
+
+Khối lượng giao dịch tiếp tục tăng mạnh, đạt đỉnh khoảng 0.72 tỷ cổ phiếu vào năm 2023. Nguyên nhân có thể đến từ sự phục hồi của thị trường chứng khoán sau đại dịch, sức hút của cổ phiếu BCA nhờ kết quả kinh doanh khả quan hoặc chính sách cổ tức hấp dẫn, cùng với dòng vốn từ nhà đầu tư nước ngoài và các quỹ đầu tư gia tăng.
+
+  *Giai đoạn 2014:
+
+Những tháng đầu năm 2024, khối lượng giao dịch có dấu hiệu giảm. Điều này có thể do tâm lý thận trọng của nhà đầu tư trước những biến động kinh tế toàn cầu, cùng với giai đoạn điều chỉnh tự nhiên sau các đợt giao dịch sôi động trước đó.
+
+
+  
 
 
 
