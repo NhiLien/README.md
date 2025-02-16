@@ -40,7 +40,7 @@ Những tháng đầu năm 2024, khối lượng giao dịch có dấu hiệu gi
 
 #### _Xu hướng giá cổ phiếu BCA bằng MA (Moving Average)_
 
-![Screenshot 2025-02-16 134349](https://github.com/user-attachments/assets/7670b0b5-64e9-4493-859a-7e0b8452a618)
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/4ff80583-cef1-4d58-b543-f1f37e593d31" />
 
 Nhìn chung, giá trị trung bình của giá đóng cửa cổ phiếu BCA có xu hướng tăng dần theo thời gian. Bên cạnh đó, đường MA 20, MA 50, MA 100 trên biểu đồ đều có xu hướng tăng lên trong dài hạn. Cụ thể là:
 * Giai đoạn 2014 - 2020:
