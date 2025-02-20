@@ -62,7 +62,7 @@ Ngoài ra, so sánh với dữ liệu thực tế thì trung bình giá cổ phi
 
 **Kết luận**
 
-Mô hình dự báo với độ tin cậy 80% phản ánh xu hướng giá cổ phiếu BCA có xu hướng tăng nhưng trong dài hạn, độ không chắc chắn sẽ gia tăng nên cần có sự theo dõi sát sao các yếu tố kinh tế vĩ mô và nội bộ ngân hàng đưa vào mô hình dự báo để tăng độ chính xác hơn.
+Mô hình dự báo với độ tin cậy 80% phản ánh xu hướng giá cổ phiếu BCA có sự biến động nhưng trong dài hạn, độ không chắc chắn sẽ gia tăng nên cần có sự theo dõi sát sao các yếu tố kinh tế vĩ mô và nội bộ ngân hàng đưa vào mô hình dự báo để tăng độ chính xác hơn.
 
 Tóm lại, dự báo cho thấy cổ phiếu BCA có tiềm năng tăng trưởng, nhưng cần xem xét thêm các yếu tố như chính sách tiền tệ của Indonesia, lạm phát và tình hình tài chính của ngân hàng để có chiến lược đầu tư phù hợp.
 
