@@ -55,8 +55,8 @@ Trong suốt giai đoạn này, MA 20 duy trì trên MA 50 và MA 100, và có x
 ![Screenshot 2025-02-16 224150](https://github.com/user-attachments/assets/020fca5b-b3ae-4ee9-a4dc-ca4a8d53d0c8)
 
 Biểu đồ trên hiển thị xu hướng giá đóng cửa trung bình của cổ phiếu BCA từ 2021 đến 2026, trong đó, đường màu xanh thể hiện dữ liệu thực tế, trong khi vùng màu xám thể hiện dự báo với mức tin cậy 80%:
-* Giá dự báo trong ngắn hạn (Q1/2025): Dao động trong khoảng 9.150 - 9.900 Rp Rp, phù hợp với thực tế hiện tại.
-* Giá dự báo trong dài hạn (2026): Xu hướng tăng ổn định nhưng với độ biến động cao hơn.
+* Giá dự báo trong năm 2025: Dao động trong khoảng 9.150 - 9.900 Rp Rp, phù hợp với thực tế hiện tại.
+* Giá dự báo trong năm 2026: Xu hướng tăng ổn định nhưng với độ biến động cao hơn.
 
 Ngoài ra, so sánh với dữ liệu thực tế thì trung bình giá cổ phiếu BCA trong tháng 1/2025 là 9.2490 Rp, trong khi kết quả dự báo là 9.2850 Rp.
 
