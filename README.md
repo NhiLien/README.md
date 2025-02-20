@@ -3,8 +3,8 @@
 ### **1. Giới thiệu**
 PT Bank Central Asia Tbk (BCA) là một trong những ngân hàng lớn nhất tại Indonesia, có vai trò quan trọng trong hệ thống tài chính quốc gia. Giá cổ phiếu của BCA phản ánh hiệu suất hoạt động của ngân hàng và chịu ảnh hưởng bởi nhiều yếu tố kinh tế vĩ mô, chính sách tiền tệ và tâm lý thị trường. 
 ### **2. Mục tiêu**
-* Phân tích xu hướng giá cổ phiếu của BCA từ 2014 đến 2024.
-* Dự báo biến động giá trong tương lai với mức độ tin cậy cao.
+* Phân tích xu hướng giá cổ phiếu của BCA từ 2014 đến 2026.
+* Dự báo biến động giá trong tương lai.
 * Đánh giá độ chính xác của mô hình so với thực tế.
 ### **3. Công cụ & Phương pháp**
 * Nguồn: Kaggle (https://www.kaggle.com/datasets/brmil07/bank-stock-price/code)
@@ -46,7 +46,7 @@ Nhìn chung, giá trị trung bình của giá đóng cửa cổ phiếu BCA có
 * Giai đoạn 2014 - 2020:
 Trong giai đoạn này, đường MA 20 thường di chuyển gần MA 50, cho thấy giá cổ phiếu BCA có xu hướng tăng ổn định.
 * Giai đoạn 2021 - 2023:
-Trong suốt giai đoạn này, MA 20 duy trì trên MA 50 và MA 100, xác nhận xu hướng tăng mạnh của cổ phiếu BCA.
+Trong suốt giai đoạn này, MA 20 duy trì trên MA 50 và MA 100, và có xu hướng tăng mạnh của cổ phiếu BCA.
 
 **Tóm lại,** biểu đồ này cho thấy xu hướng giá cổ phiếu ngân hàng BCA tăng ổn định trong dài hạn, tuy nhiên cũng có những biến động nhất định trong ngắn hạn.
 
@@ -55,14 +55,14 @@ Trong suốt giai đoạn này, MA 20 duy trì trên MA 50 và MA 100, xác nh�
 ![Screenshot 2025-02-16 224150](https://github.com/user-attachments/assets/020fca5b-b3ae-4ee9-a4dc-ca4a8d53d0c8)
 
 Biểu đồ trên hiển thị xu hướng giá đóng cửa trung bình của cổ phiếu BCA từ 2021 đến 2026, trong đó, đường màu xanh thể hiện dữ liệu thực tế, trong khi vùng màu xám thể hiện dự báo với mức tin cậy 80%:
-* Giá dự báo trong ngắn hạn (Q1/2025): Dao động trong khoảng 9.500 - 10.200 IDR, phù hợp với thực tế hiện tại.
+* Giá dự báo trong ngắn hạn (Q1/2025): Dao động trong khoảng 9.150 - 9.900 Rp Rp, phù hợp với thực tế hiện tại.
 * Giá dự báo trong dài hạn (2026): Xu hướng tăng ổn định nhưng với độ biến động cao hơn.
 
-Ngoài ra,, so sánh với dữ liệu thực tế thì giá cổ phiếu BCA trong tháng 1/2025 dao động trong khoảng 9.850 - 10.060 Rp, hoàn toàn nằm trong phạm vi của kết quả dự báo (9.500 - 10.200 Rp). Điều này cho thấy mô hình dự báo hoạt động tốt trong khoảng thời gian ngắn hạn (1-3 tháng) và có thể hỗ trợ trong việc ra quyết định đầu tư ngắn hạn.
+Ngoài ra, so sánh với dữ liệu thực tế thì trung bình giá cổ phiếu BCA trong tháng 1/2025 là 9.2490 Rp, trong khi kết quả dự báo là 9.2850 Rp.
 
 **Kết luận**
 
-Mô hình dự báo với độ tin cậy 80% phản ánh chính xác xu hướng giá cổ phiếu BCA trong ngắn hạn. Tuy nhiên, trong dài hạn, độ không chắc chắn gia tăng, đòi hỏi sự theo dõi sát sao các yếu tố kinh tế vĩ mô và nội bộ ngân hàng.
+Mô hình dự báo với độ tin cậy 80% phản ánh xu hướng giá cổ phiếu BCA trong ngắn hạn. Tuy nhiên, trong dài hạn, độ không chắc chắn gia tăng, đòi hỏi sự theo dõi sát sao các yếu tố kinh tế vĩ mô và nội bộ ngân hàng.
 
 Tóm lại, dự báo cho thấy cổ phiếu BCA có tiềm năng tăng trưởng, nhưng cần xem xét thêm các yếu tố như chính sách tiền tệ của Indonesia, lạm phát và tình hình tài chính của ngân hàng để có chiến lược đầu tư phù hợp.
 
